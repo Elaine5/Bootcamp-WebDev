@@ -10,7 +10,7 @@
 body {
     width: 100%;
     min-height: 100vh;
-    background-color: rgb(243, 243, 243);
+    background-color: rgb(95, 94, 94);
     margin: 0;
     padding: 0;
     display: flex;
@@ -50,8 +50,8 @@ body {
     justify-content: space-between;
     align-items: center;
     flex-direction: column;
-    background-color: #ffffff;
-    width: 100%;
+    background-color: #c1bdbd;
+    width: 80%;
     padding: 1.3rem 0;
     border: 1px solid lightgray;
 }
@@ -89,7 +89,7 @@ body {
 }
 
 .not-account {
-    color: rgb(160, 160, 160);
+    color: rgb(2, 1, 1);
 }
 
 .link-blue {
@@ -138,7 +138,7 @@ body {
 
 @media (max-width: 650px) {
     body {
-        background-color: #ffffff;
+        background-color: #faf8f8;
     }
 
     .instagram-wrapper {
